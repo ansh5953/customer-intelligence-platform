@@ -250,3 +250,5 @@ Screenshots are stored in the [`snapshots/`](snapshots/) folder. See [`snapshots
 | Dashboard | Streamlit + Plotly |
 | Styling | Custom CSS (glassmorphism, CSS animations) |
 | Config | python-dotenv |
+#   c u s t o m e r - i n t e l l i g e n c e - p l a t f o r m  
+ 
